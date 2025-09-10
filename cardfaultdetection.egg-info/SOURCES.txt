@@ -1,0 +1,7 @@
+README.md
+setup.py
+cardfaultdetection.egg-info/PKG-INFO
+cardfaultdetection.egg-info/SOURCES.txt
+cardfaultdetection.egg-info/dependency_links.txt
+cardfaultdetection.egg-info/requires.txt
+cardfaultdetection.egg-info/top_level.txt
